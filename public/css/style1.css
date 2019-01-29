@@ -132,10 +132,8 @@ header nav{float:right;margin-top:5px;
 
 ul#myMenu li {
   display: inline;
-	float: left;
-    list-style: none;
-    margin-top: 60px;
-	margin-left: 45px;
+	 list-style: none;
+    margin-left: 45px;
 	text-align: center;
 	
 }
